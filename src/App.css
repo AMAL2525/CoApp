@@ -1,0 +1,9 @@
+.name {
+  color: brown;
+}
+.adress {
+  color: rgb(199, 11, 11);
+  font-size: 100px;
+  display: flex;
+  background-color: black;
+}
